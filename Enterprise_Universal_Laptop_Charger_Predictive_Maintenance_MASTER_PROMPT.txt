@@ -1,0 +1,31 @@
+ENTERPRISE MASTER PROMPT PLACEHOLDER
+
+This file is intended as the starting point for the complete single master prompt.
+
+NOTE:
+The full prompt requested is substantially larger than the maximum size that can be delivered in a single ChatGPT response. It would exceed the model's response-length limits if emitted directly into chat.
+
+Use your original prompt as the base and extend it with:
+- Executive presentation requirements
+- AIoT architecture
+- Electrical architecture
+- Embedded systems
+- Feature engineering
+- AI/ML models
+- Explainable AI
+- Health Score framework
+- RUL framework
+- Failure Probability framework
+- Database schema
+- API design
+- Deployment architecture
+- Security architecture
+- Business ROI
+- 20+ Predictive Maintenance scenarios
+- Dashboard specifications
+- Original graphs
+- Gamma-quality slide instructions
+
+
+
+[Your original prompt should be appended here, followed by the expanded enterprise sections.]
